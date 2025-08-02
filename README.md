@@ -23,7 +23,7 @@ Comparison of total earnings by the studios.
 <img width="556" height="490" alt="image" src="https://github.com/user-attachments/assets/2b958c31-4b30-4c20-94fe-282f03e03d77" />
 
 # CONCLUSIONS
-*This analysis leads to three recommendations for creation of a new movie studio:
+*This analysis leads to three recommendations for creation of a new movie studio:*
 - **Foreign Markets should be an area of focus.** From our dataset we see that foreign markets tend to earn more domestic markets,microsoft should put more focus in this particular area.
 - **Partner with studios which are known for creating good movies with good earnings.** Studios like BV & Uni might increase Microsfts's Chances of success due to their association with top charting movies.
 - **Understanding yearly patterns.** understanding when to release and create movies in accordance with what is happening in real life will also increase the chances of success.
